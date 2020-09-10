@@ -1,1 +1,3 @@
 # 506Ex3
+
+Adding some stuff to the readme file...
